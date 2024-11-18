@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/MichaelMEM1/conda_BSGP730/tree/calctest/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelMEM1/conda_BSGP730/tree/calctest/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
