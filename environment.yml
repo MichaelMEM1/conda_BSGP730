@@ -19,3 +19,5 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - r-ggthemes
+  - r-ggprism
